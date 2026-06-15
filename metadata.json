@@ -1,0 +1,6 @@
+{
+  "name": "Space Mission Control",
+  "description": "An immersive, real-time Space Mission Control Dashboard for monitoring rocket launches and satellite deployments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
